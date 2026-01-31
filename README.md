@@ -26,7 +26,7 @@ This project is a QR Code Generator built using Python. The application takes a 
 2. Install Required Libraries
 
    Install the QR code library using pip:
-        python -m pip install --user qrcode[pil]
+       `python -m pip install --user qrcode[pil]`
 
 ## How to Run the Project
 
@@ -38,6 +38,8 @@ This project is a QR Code Generator built using Python. The application takes a 
      python qr_generator.py
 
 - Enter a valid URL when prompted
+
+ ## Output
 
 - A window will open displaying the generated QR code
 
