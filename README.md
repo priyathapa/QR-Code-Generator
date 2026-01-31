@@ -1,6 +1,6 @@
-#*QR Code Generator (Python)*#
+# *QR Code Generator (Python)*
 
-Project Description
+## Project Description
 
 This project is a QR Code Generator built using Python. The application takes a URL as user input and generates a corresponding QR code image, which is displayed in a graphical window. QR codes allow information to be stored and accessed quickly using machine-readable formats.
 
