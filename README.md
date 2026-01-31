@@ -4,19 +4,19 @@
 
 This project is a QR Code Generator built using Python. The application takes a URL as user input and generates a corresponding QR code image, which is displayed in a graphical window. QR codes allow information to be stored and accessed quickly using machine-readable formats.
 
-Technologies Used
+## Technologies Used
 
-  Python 3.11
+ - Python 3.11
 
-  qrcode library
+ - qrcode library
 
-  Pillow (PIL) for image processing
+ - Pillow (PIL) for image processing
 
-  Tkinter for graphical user interface
+ - Tkinter for graphical user interface
 
-  Visual Studio Code (IDE)
+ - Visual Studio Code (IDE)
 
-Environment Setup
+## Environment Setup
 
 1. Install Python
 
