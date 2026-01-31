@@ -1,4 +1,4 @@
-*QR Code Generator (Python)*
+#*QR Code Generator (Python)*#
 
 Project Description
 
